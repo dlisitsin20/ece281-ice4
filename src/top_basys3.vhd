@@ -11,7 +11,7 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : top_basys3.vhd
---| AUTHOR(S)     : Capt Phillip Warner
+--| AUTHOR(S)     : Capt Phillip Warner, C3C Dominick Lisitsin
 --| CREATED       : 02/22/2018 Modified: 03/01/2020 by capt Dan Johnson
 --| DESCRIPTION   : This file implements the top level module for the solution for Stoplight FSM.
 --|
